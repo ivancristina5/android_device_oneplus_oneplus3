@@ -155,7 +155,7 @@ PRODUCT_COPY_FILES += \
 # Camera
 PRODUCT_PACKAGES += \
 	OnePlusCamera \
-	SnapdragonGallery \
+	OnePlusCameraService \
     libcamera_shim
 
 # Connectivity Engine support (CNE)
